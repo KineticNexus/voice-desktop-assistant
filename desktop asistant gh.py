@@ -1,11 +1,4 @@
 
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jul 22 22:36:58 2024
-
-@author: halif
-"""
-
 import sys
 import pyautogui
 import speech_recognition as sr
