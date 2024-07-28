@@ -1,0 +1,6 @@
+pyautogui
+SpeechRecognition
+PyQt5
+requests
+mss
+Pillow
